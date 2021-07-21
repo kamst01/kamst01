@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Keifer Amster or @kamst01
-I've been working with Front-End Web Development/Design for over six years now. Two years ago was when I decided to turn my favorite hobby in the world into a career; and here we are today! Still excited, still determined & always learning. A few notes about me:
+I've been working with Front-End Web Development/Design for over six years now. Three years ago was when I decided to turn my favorite hobby in the world into a career; and here we are today! Still excited, still determined & always learning. A few notes about me:
 - I LOVE [Jamstack](https://jamstack.org/)!
 - Always interested in Front-End Web Development and its ever-changing list of technologies. I am currently working toward becoming an expert in all things SSG.
 - In my current role, I am working with a fantastic group of individuals on an SSG E-Commerce Store using [Hugo](https://gohugo.io), [Shopify](https://shopify.com), [TailwindCSS](https://tailwindcss.com), [Netlify](https://netlify.com) and much more.
