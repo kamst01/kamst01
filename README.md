@@ -1,10 +1,8 @@
 ### 👋 Hi, I’m Keifer Amster or @kamst01
-I've been working with Front-End Web Development/Design for over six years now. Two years ago I was able to turn my favorite hobby into a full-time career; and now I am living the dream! Still excited, still determined & always learning. A few notes about me:
+I've been working with Front-End Web Development/Design for over six years now. Four years ago I was able to turn my favorite hobby into a full-time career; and now I am living the dream! Still excited, still determined & always learning. A few notes about me:
 - Always interested in Front-End Web Development and its ever-changing list of technologies.
-- In my current role, I am working with a fantastic group of individuals on an SSG E-Commerce Store using [Hugo](https://gohugo.io), [Shopify](https://shopify.com), [TailwindCSS](https://tailwindcss.com), [Netlify](https://netlify.com) and much more. Checkout [Jaquish Biomedical](https://jaquishbiomedical.com).
+- In my current role at Outdoor Networks, I am working with [Vue.js](https://vuejs.org), [PHP](https://php.net), [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) & more. 
 - Constantly looking at the possibilties, how I can improve and build upon my strengths.
-
-#### Reach me via [UpWork](https://www.upwork.com/freelancers/~0194eaa483d9d5e37a?s=1110580755057594368)
 
 <!---
 kamst01/kamst01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
